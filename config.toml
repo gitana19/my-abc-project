@@ -1,0 +1,3 @@
+baseURL = "https://gitana19.github.io/my-abc-project/"
+title = "My New Hugo Site"
+theme = "ananke"
